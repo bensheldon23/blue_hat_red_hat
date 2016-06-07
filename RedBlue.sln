@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{3EF0E601-A88F-4504-97D7-836C4DAEC7E5}") = "RedBlue", "RedBlue\RedBlue.stproj", "{5AE0550E-9710-4FD8-90DF-32A59A28B763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AE0550E-9710-4FD8-90DF-32A59A28B763}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{5AE0550E-9710-4FD8-90DF-32A59A28B763}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{5AE0550E-9710-4FD8-90DF-32A59A28B763}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{5AE0550E-9710-4FD8-90DF-32A59A28B763}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
